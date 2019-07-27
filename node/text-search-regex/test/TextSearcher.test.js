@@ -57,7 +57,7 @@ describe('Text Searcher', () => {
     ]);
   });
 
-  // Tests numeric query word.
+  // Tests numeric query word.'
   it('numeric query', () => {
     const file = readFile('long_excerpt.txt');
     const searcher = new TextSearcher(file);

@@ -1,0 +1,12 @@
+{
+  "name": "text-search",
+  "version": "1.0.0",
+  "author": "Greg Douglas <gwshark0@gmail.com>",
+  "description": "A module for searching text in files.",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "scripts": {
+    "test": "jest test"
+  }
+}
